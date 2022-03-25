@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garrettpyke
-- 👀 I’m interested in re-learning programming, computer theory, hardware engineering...and about life, the universe and everything.
-- 🌱 I’m currently learning JavaScript, node.js, Python, C++.
-- 💞️ I’m looking to collaborate on something cool once I feel like my skills are back up to snuff. 
+- 👀 I’m interested in programming, computer theory, software engineering...and about life, the universe and everything.
+- 🌱 I’m currently learning more about JavaScript, node.js, Python, Django, Express.js, RESTful APIs, Heroku, NoSQL DBs, SQL DBs, JQuery and C++.
+- 💞️ I’m looking to collaborate on something cool and useful. 
 - 📫 How to reach me - garrettpyke@msn.com
 
 <!---
