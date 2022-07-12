@@ -1,5 +1,3 @@
 - 👋 Hi, @garrettpyke here!
-- 👀 I’m interested in computer theory, software engineering, all things programming...and about life, the universe and everything.
-- 🌱 I’m currently learning more about JavaScript, Node.js, Python, Django, Express.js, RESTful APIs, Heroku, NoSQL DBs, SQL DBs, JQuery and C++.
-- 💞️ I’m looking to collaborate on time-saving applications that help the general public. 
+- 🌱 I’m currently learning more about PHP, JavaScript, Node.js, Python, Django, Express.js, RESTful APIs, Heroku, NoSQL DBs, SQL DBs, JQuery and C++.
 - 📫 How to reach me - garrettpyke@gmail.com
