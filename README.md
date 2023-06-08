@@ -1,3 +1,3 @@
 - 👋 Hi, @garrettpyke here!
 - 🌱 I’m currently learning more about PHP, JavaScript, Node.js, Python, Django, Express.js, RESTful APIs, Heroku, NoSQL DBs, SQL DBs and C++.
-- 📫 How to reach me - garrettpyke@gmail.com
+- 📫 How to reach me - garrettpyke@icloud.com
