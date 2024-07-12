@@ -1,4 +1,4 @@
 - 👋 Hello, @garrettpyke here!
-- I'm a full-stack engineer who loves to learn. I have a bachelor's degree in Software Engineering from Weber State University, but I consider that as the *end of the beginning* of my learning journey. I'm in the process of learning more about Cloud technologies (AWS, Oracle, Azure, Google, ...).
-- 🌱 I’m enjoying learning more about Python & Java in Machine Learning, GoLang, Ruby and Graph DBs if I ever get the time.
+- I'm a full-stack engineer who loves to learn. I have a bachelor's degree in Software Engineering from Weber State University, but I consider that as the *end of the beginning* of my learning journey. I'm in the process of learning more about Cloud technologies (AWS, Oracle, Azure, Google, Kubernetes, Terraform...).
+- 🌱 I’m also enjoying learning more about in Machine Learning in Python & Java, GoLang and (Graph DBs if I ever get the time).
 - 📫 How to reach me - garrettpyke@gmail.com
