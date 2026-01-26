@@ -1,4 +1,4 @@
 - 👋 Hello, @garrettpyke here!
 - I'm a full-stack engineer who loves to learn. I have a bachelor's degree in Software Engineering from Weber State University, but I consider that as the *end of the beginning* of my learning journey. I'm in the process of learning more about Cloud technologies (AWS, Oracle, Azure, Google, Kubernetes, Terraform...).
-- 🌱 I’m also enjoying learning more about in Machine Learning in Python & Java, GoLang and (Graph DBs if I ever get the time).
+- 🌱 I’m also enjoying learning more about in Machine Learning in Python & Java, HTTP 2.x multiplexing, [gRPC](https://grpc.io/docs/what-is-grpc/introduction/), and Vector & Graph DBs.
 - 📫 How to reach me - garrettpyke@gmail.com
